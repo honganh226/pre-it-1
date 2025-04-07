@@ -19,10 +19,10 @@ Feel free to fork, clone, and contribute as we work together on projects and lea
 📌 *Happy coding, and let's grow together as developers!*
 
 ## Collaborators
-- [@bradduy](https://github.com/bradduy)
-- [@bloomincode-dev](https://github.com/bloomincode-dev)
-- [@NguynMy](https://github.com/NguynMy)
-- [@hqt2310](https://github.com/hqt2310)
-- [@DucTran](https://github.com/trandangtrungduc)
-- [@PHAMZENY](https://github.com/PHAMZENY)
-- [@doananh](https://github.com/doananh04)
+- [bradduy](https://github.com/bradduy)
+- [bloomincode-dev](https://github.com/bloomincode-dev)
+- [NguynMy](https://github.com/NguynMy)
+- [hqt2310](https://github.com/hqt2310)
+- [DucTran](https://github.com/trandangtrungduc)
+- [PHAMZENY](https://github.com/PHAMZENY)
+- [doananh](https://github.com/doananh04)
