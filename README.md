@@ -1,4 +1,4 @@
-# PreIT Class Assignment Repository
+# PreIT Class
 
 This repository is created for submitting assignment codes for the **PreIT class**.
 
@@ -26,3 +26,4 @@ Feel free to fork, clone, and contribute as we work together on projects and lea
 - [DucTran](https://github.com/trandangtrungduc)
 - [PHAMZENY](https://github.com/PHAMZENY)
 - [doananh](https://github.com/doananh04)
+- [M1nK4ng](https://github.com/M1nK4ng)
