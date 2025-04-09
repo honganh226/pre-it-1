@@ -1,0 +1,6 @@
+my_tuple = ("thu2", "thu3", "thu4", "thu5", "thu6", "thu7","CN")
+## print( my_tuple[0] , my_tuple[4])
+my_list = list(my_tuple)
+my_list.append("Funday")
+my_tuple = tuple(my_list)
+print(my_tuple)
